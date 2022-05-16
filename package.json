@@ -1,0 +1,24 @@
+{
+  "name": "NotesTakingAPI",
+  "version": "1.0.0",
+  "description": "A serverless notes taking API using REDIS, Node.js and Upstash",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-consciousroad/NotesTakingAppApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ali-consciousroad/NotesTakingAppApi/issues"
+  },
+  "homepage": "https://github.com/Ali-consciousroad/NotesTakingAppApi#readme",
+  "dependencies": {
+    "mongoose": "^6.3.3"
+  }
+}
